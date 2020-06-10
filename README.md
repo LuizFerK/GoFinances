@@ -1,11 +1,11 @@
 <h1 align="center">
   GoFinances
   <hr />
-  <img alt="Dashboard" src="./frontend/src/assets/gofinancesgit1.png" />
-  <img alt="DashboardList" src="./frontend/src/assets/gofinancesgit2.png" />
-  <img alt="Import" src="./frontend/src/assets/gofinancesgit3.png" />
+  <img alt="Dashboard" src="./.github/dashboard.png" />
+  <img alt="DashboardList" src="./.github/dashboardlist.png" />
+  <img alt="Import" src="./.github/import.png" />
   <hr />
-	<img alt="Logo" src="./frontend/src/assets/logo.svg" />
+	<img alt="Logo" src="./.github/logo.png" />
 </h1>
 <p align="center">
 	The application has been created to help people controll their own daily transaction and save money. Created with Node.js ReactJS, all with Typescript.
