@@ -2,9 +2,9 @@
   "type": "postgres",
   "host": "localhost",
   "port": 5432,
-  "username": "postgres",
-  "password": "docker",
-  "database": "gostack_desafio06",
+  "username": "your_container_username",
+  "password": "your_container_password",
+  "database": "gofinances",
   "entities": ["./src/models/*.ts"],
   "migrations": ["./src/database/migrations/*.ts"],
   "cli": {
