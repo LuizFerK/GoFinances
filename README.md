@@ -116,7 +116,7 @@ If you know the origin of the error and know how to resolve it, please, send me 
 
 Released in 2020.
 
-This project is under the MIT license.
+This project is under the [MIT license](https://github.com/LuizFerK/GoFinances/blob/master/LICENSE).
 
 <p align="center">
 	< keep coding /> :rocket: :heart:
