@@ -1,16 +1,42 @@
-<h1 align="center">
-  GoFinances
-  <hr />
-  <img alt="Dashboard" src="./.github/dashboard.png" />
-  <img alt="DashboardList" src="./.github/dashboardlist.png" />
-  <img alt="Import" src="./.github/import.png" />
-  <hr />
-	<img alt="Logo" src="./.github/logo.png" />
-</h1>
 <p align="center">
-	The application has been created to help people controll their own daily transaction and save money. Created with Node.js ReactJS, all with Typescript.
+  <img alt="Logo" src="./.github/logo.png" />
 </p>
-<h1>Technologies used in this application:<h2>
+
+<h1 align="center" style="text-align: center;">GoFinances</h1>
+
+<p align="center">
+	<a href="https://github.com/LuizFerK">
+		<img alt="Author" src="https://img.shields.io/badge/author-Luiz%20Fernando-FF872C?style=flat" />
+	</a>
+	<a href="#">
+		<img alt="Languages" src="https://img.shields.io/github/languages/count/LuizFerK/GoFinances?color=%23FF872C&style=flat-" />
+	</a>
+	<a href="hhttps://github.com/LuizFerK/GoFinances/stargazers">
+		<img alt="Stars" src="https://img.shields.io/github/stars/LuizFerK/GoFinances?color=FF872C&style=flat" />
+	</a>
+	<a href="https://github.com/LuizFerK/GoFinances/network/members">
+		<img alt="Forks" src="https://img.shields.io/github/forks/LuizFerK/GoFinances?color=%23FF872C&style=flat" />
+	</a>
+	<a href="https://github.com/LuizFerK/GoFinances/graphs/contributors">
+		<img alt="Contributors" src="https://img.shields.io/github/contributors/LuizFerK/GoFinances?color=FF872C&style=flat" />
+	</a>
+</p>
+
+<p align="center">
+	<b>Help yourself to controll your daily transactions and save money!</b><br />
+	<span>Created with Node.js ReactJS, all with Typescript.</span><br />
+	<sub>Made with ❤️</sub>
+</p>
+
+<br />
+
+<img alt="Dashboard" src="./.github/dashboard.png" />
+<img alt="DashboardList" src="./.github/dashboardlist.png" />
+<img alt="Import" src="./.github/import.png" />
+
+<br />
+
+<h1>Technologies used in this application:<h1>
 
 ### Node.js (backend)
 - Express
