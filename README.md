@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-	<b>Help yourself to controll your daily transactions and save money!</b><br />
+	<b>Help yourself to control your daily transactions and save money!</b><br />
 	<span>Created with Node.js, ReactJS, all with Typescript.</span><br />
 	<sub>Made with ❤️</sub>
 </p>
