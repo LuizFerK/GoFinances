@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo" src="./.github/logo.png" />
+  <img alt="Logo" src="./.github/logo.png" width="130px" />
 </p>
 
 <h1 align="center" style="text-align: center;">GoFinances</h1>
@@ -24,7 +24,7 @@
 
 <p align="center">
 	<b>Help yourself to controll your daily transactions and save money!</b><br />
-	<span>Created with Node.js ReactJS, all with Typescript.</span><br />
+	<span>Created with Node.js, ReactJS, all with Typescript.</span><br />
 	<sub>Made with ❤️</sub>
 </p>
 
