@@ -8,32 +8,31 @@
 
 <p align="center">
 	<a href="https://github.com/LuizFerK">
-		<img alt="Author" src="https://img.shields.io/badge/author-Luiz%20Fernando-FF872C?style=flat" />
+		<img alt="Author" src="https://img.shields.io/badge/author-Luiz%20Fernando-8E54E9?style=flat" />
 	</a>
 	<a href="#">
-		<img alt="Languages" src="https://img.shields.io/github/languages/count/LuizFerK/GoFinances?color=%23FF872C&style=flat-" />
+		<img alt="Languages" src="https://img.shields.io/github/languages/count/LuizFerK/GoFinances?color=8E54E9&style=flat" />
 	</a>
 	<a href="hhttps://github.com/LuizFerK/GoFinances/stargazers">
-		<img alt="Stars" src="https://img.shields.io/github/stars/LuizFerK/GoFinances?color=FF872C&style=flat" />
+		<img alt="Stars" src="https://img.shields.io/github/stars/LuizFerK/GoFinances?color=8E54E9&style=flat" />
 	</a>
 	<a href="https://github.com/LuizFerK/GoFinances/network/members">
-		<img alt="Forks" src="https://img.shields.io/github/forks/LuizFerK/GoFinances?color=%23FF872C&style=flat" />
+		<img alt="Forks" src="https://img.shields.io/github/forks/LuizFerK/GoFinances?color=8E54E9&style=flat" />
 	</a>
 	<a href="https://github.com/LuizFerK/GoFinances/graphs/contributors">
-		<img alt="Contributors" src="https://img.shields.io/github/contributors/LuizFerK/GoFinances?color=FF872C&style=flat" />
+		<img alt="Contributors" src="https://img.shields.io/github/contributors/LuizFerK/GoFinances?color=8E54E9&style=flat" />
 	</a>
 </p>
 
 <p align="center">
 	<b>Help yourself to control your daily transactions and save money!</b><br />
-	<span>Created with Node.js, ReactJS, all with Typescript.</span><br />
+	<span>Created with Node.js and ReactJS, all with Typescript.</span><br />
 	<sub>Made with ❤️</sub>
 </p>
 
 <br />
 
 <img alt="Dashboard" src="./.github/dashboard.png" />
-<img alt="DashboardList" src="./.github/dashboardlist.png" />
 <img alt="Import" src="./.github/import.png" />
 
 <br />
@@ -57,9 +56,9 @@
 # :wrench: Installation
 
 ### Required :warning:
-- Yarn
 - Node.js
 - Postgres
+- Yarn
 
 ### SSH
 
@@ -73,38 +72,38 @@ In case you don't have an SSH key on your GitHub account, you can clone the proj
 
 ```git clone https://github.com/LuizFerK/GoFinances.git```
 
-**Both of this commands will generates a folder called GoFinances, with all the project**
+**Both of these commands will generate a folder called GoFinances, with all the project**
 
 # :bulb: Getting started
 
 ### Server
 
-1. Open the **server** folder and run ```yarn``` to install the dependencies;
-2. Rename the ```ormconfig.example.json``` to ```ormconfig.json``` and add your postgres **port**, **user** and **password** in the archive;
-3. Create a database named ```gofinances``` on your postgres;
-4. Run ```yarn typeorm migration:run``` to run the migrations to your database;
-5. If all goes well, run ```yarn dev:server``` to open the development server on port 3333.
+1. Open the **server** folder and run ```yarn``` to install the dependencies
+2. Rename the ```ormconfig.example.json``` to ```ormconfig.json``` and add your postgres **port**, **user** and **password** in the archive
+3. Create a database named ```gofinances``` on your postgres
+4. Run ```yarn typeorm migration:run``` to run the migrations to your database
+5. If all goes well, run ```yarn dev:server``` to open the development server on port 3333
 
 ### Web
 
-1. Open the **web** folder an run ```yarn``` to install the dependencies;
-2. Run ```yarn start``` to open the web application on port 3000. (the app will open in your browser automatically)
+1. Open the **web** folder and run ```yarn``` to install the dependencies
+2. Run ```yarn start``` to open the web application on port 3000 (the app will open in your browser automatically)
 
 # :fire: Techs
 
 ### Typescript (language)
 
 ### Node.js (server)
-- Express
-- TypeORM
-- Multer
 - CORS
+- Express
+- Multer
+- TypeORM
 
 ### ReactJS (web)
 - Axios
-- Styled Components
-- React Router DOM
 - React Dropzone
+- React Router DOM
+- Styled Components
 
 # :bug: Issues
 

@@ -52,14 +52,14 @@ const Dashboard: React.FC = () => {
         <CardContainer>
           <Card>
             <header>
-              <p>Entradas</p>
+              <p>Incomes</p>
               <img src={income} alt="Income" />
             </header>
             <h1 data-testid="balance-income">{formatValue(balance.income)}</h1>
           </Card>
           <Card>
             <header>
-              <p>Saídas</p>
+              <p>Outcomes</p>
               <img src={outcome} alt="Outcome" />
             </header>
             <h1 data-testid="balance-outcome">
@@ -79,10 +79,10 @@ const Dashboard: React.FC = () => {
           <table>
             <thead>
               <tr>
-                <th>Título</th>
-                <th>Preço</th>
-                <th>Categoria</th>
-                <th>Data</th>
+                <th>Title</th>
+                <th>Value</th>
+                <th>Category</th>
+                <th>Date</th>
               </tr>
             </thead>
 
